@@ -4,6 +4,8 @@
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
+> **TL;DR: Break chronic stress and boost focus by instantly switching between 3+ comfortable work positions (lie, sit, stand) within arm's reach. This effortless movement slashes cortisol, spikes dopamine, and transforms productivity and health using existing furniture—no endurance needed.**
+
 Did you know that you can always **transform stress into clarity with one strategic shift**? Did you know that eating while walking is better than sitting still? Whenever your boss assigns a new task, **resist the instinct to start immediately from your current position.** Instead, **make it a non-negotiable ritual to deliberately relocate** to your next optimal workspace *before* diving into the work. This simple act of **physically resetting your environment** instantly lowers cortisol, sharpens logical thinking, and fuels a positive mindset. **You won’t just complete the task—you’ll conquer it with calm precision.** Trust us: later, you’ll feel profound gratitude for this small pivot that pays off in monumental focus and well-being, which is the basis of the Trinity Workstation.
 
 ## I. Introduction: The Modern Productivity Trap
