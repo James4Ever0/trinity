@@ -158,6 +158,6 @@ Quitting risks financial stress (a major hypertension trigger). Instead, restruc
 ---
 Notes:
 
-- Immobility may cause fascial adhesions, hypertension, diabetes, peripheral neuralpathy. Massage may help with these issues.
+- Immobility may cause fascial adhesions, hypertension, diabetes, peripheral neuralpathy. Exercise, stretching and massage may help with these issues.
 
 - The Trinity Workstation setup cannot replace professional medical help. Do not hesitate to seek for a doctor if your conditions are severe and uncontrollable on your own.
