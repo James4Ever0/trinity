@@ -90,4 +90,71 @@ Adopting this approach represents **A Lifelong Upgrade**. The Trinity Workstatio
 
 ---
 
+## FAQ
+
+### **1. What is the Trinity Workstation, and why was it created?**  
+**A:** The Trinity Workstation is an evolving health solution born from my battle with hypertension and declining well-being. It counters the root cause of stress—**cortisol-driven work patterns**—by integrating movement into work. Instead of seeking temporary relief through overeating, escapism, or draining social rituals, this setup empowers you to dismantle stress at its source. The goal: achieve truly pressure-free work and life alignment. *When you master this, you reclaim control.*
+
+### **2. How does cortisol imbalance affect my focus and health?**  
+**A:** Feeling unfocused when cortisol drops signals a **hormonal addiction to stress**, akin to dependency on stimulants like amphetamines. Modern work culture traps us in high-cortisol states, causing:  
+- Hormonal disruption  
+- Hypertension risk  
+- Mental fatigue  
+- Reduced cognitive function  
+The Trinity Workstation breaks this cycle by restoring natural hormone balance *during* work hours—not through biohacks, but **physiological recalibration**.
+
+### **3. I walk to work. Isn’t that enough activity?**  
+**A:** No. Activity *outside* work hours fails to counter prolonged sedentary stress. The Trinity Workstation ensures **continuous movement while working**, preventing cortisol spikes and vascular strain. Key science:  
+- Sitting >6 hours/day increases heart disease risk by 64% (*American Heart Association*)  
+- Micro-movements every 30 minutes lower blood pressure and improve insulin sensitivity  
+
+### **4. Does lowering cortisol weaken my ability to handle stress?**  
+**A:** Absolutely not. Cortisol is essential for acute stress (e.g., running from danger), but chronic elevation is destructive:  
+- **External pressures** (deadlines, emails) should be managed via boundaries (e.g., Do-Not-Disturb mode) or direct action.  
+- **Internal pressures** (anxiety, hypertension) are fueled by cortisol, triggering fight-or-flight responses *with no physical outlet*.  
+Lowering cortisol doesn’t reduce resilience—it **prevents self-inflicted damage** when no real threat exists.  
+
+> *Key distinction: Control external stressors strategically; neutralize internal stressors physiologically.*
+
+### **5. I have hypertension. Will this workstation solve it?**  
+**A:** The Trinity Workstation is a **complementary tool**, not a cure. Hypertension is a complex, chronic condition requiring:  
+- **Medical intervention:** Consult a doctor. Medications (e.g., spironolactone) may be essential.  
+- **Lifestyle synergy:** Pair this setup with low-sodium diets, stress management, and medication compliance.  
+*Note:* Ignoring clinical treatment risks irreversible organ damage.  
+
+### **6. Can’t I just improve my mood to lower blood pressure?**  
+**A:** Mental calmness helps but is insufficient alone. Hypertension stems from **physical strain** (arterial stiffness, plaque buildup). The Trinity Workstation addresses this by:  
+- Boosting circulation via movement  
+- Reducing cortisol-induced vascular inflammation  
+- Preventing sedentary damage  
+*Prioritize body-first healing: Mood supports physiology, not vice versa.*
+
+### **7. Will this disrupt my hormone balance?**  
+**A:** No. The Trinity Workstation *restores* balance. Modern work pushes cortisol to harmful extremes—this setup gently recalibrates it. Unlike stimulants or drugs:  
+- It’s legal, ethical, and non-addictive  
+- Works with your biology (not against it)  
+- Prevents *over*-correction: If you can move freely without diagnosed cortisol deficiency, levels won’t drop too low.  
+
+### **8. Should I quit my job to reduce stress?**  
+**A:** Rarely necessary. The Trinity Workstation lets you **work without internalizing pressure**:  
+- Work intensely during dedicated hours  
+- Disconnect completely afterward  
+Quitting risks financial stress (a major hypertension trigger). Instead, restructure *how* you work.  
+
+### **9. What hypertension symptoms should I watch for?**  
+**A:** Seek immediate medical help if you experience:  
+- **Cardiac:** Irregular heartbeat, chest tightness  
+- **Neurological:** Blurred vision, tinnitus, dizziness upon standing  
+- **Physical:** Neck/hip soreness, "exploding" sensation in veins  
+> *Diagnosis threshold:* Sustained BP ≥130/80 mmHg (per American Heart Association 2023 guidelines). Home monitors are essential for tracking.
+
+### **10. How do I start?**  
+**A:** Begin with these Trinity Workstation pillars:  
+1. **Movement-Integrated Desk:** Treadmill, standing desk, or stepper.  
+2. **Distraction Control:** Scheduled Do-Not-Disturb blocks.  
+3. **Work-Time Boundaries:** No overtime; protect recovery hours.  
+> *Progress > perfection. Track BP weekly and adjust as needed.*
+
+---
+
 Note: The Trinity Workstation setup cannot replace professional medical help. Do not hesitate to seek for a doctor if your conditions are severe and uncontrollable on your own.
