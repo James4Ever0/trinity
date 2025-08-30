@@ -101,6 +101,7 @@ Adopting this approach represents **A Lifelong Upgrade**. The Trinity Workstatio
 - Hypertension risk  
 - Mental fatigue  
 - Reduced cognitive function  
+
 The Trinity Workstation breaks this cycle by restoring natural hormone balance *during* work hours—not through biohacks, but **physiological recalibration**.
 
 ### **3. I walk to work. Isn’t that enough activity?**  
@@ -112,6 +113,7 @@ The Trinity Workstation breaks this cycle by restoring natural hormone balance *
 **A:** Absolutely not. Cortisol is essential for acute stress (e.g., running from danger), but chronic elevation is destructive:  
 - **External pressures** (deadlines, emails) should be managed via boundaries (e.g., Do-Not-Disturb mode) or direct action.  
 - **Internal pressures** (anxiety, hypertension) are fueled by cortisol, triggering fight-or-flight responses *with no physical outlet*.  
+
 Lowering cortisol doesn’t reduce resilience—it **prevents self-inflicted damage** when no real threat exists.  
 
 > *Key distinction: Control external stressors strategically; neutralize internal stressors physiologically.*
@@ -120,6 +122,7 @@ Lowering cortisol doesn’t reduce resilience—it **prevents self-inflicted dam
 **A:** The Trinity Workstation is a **complementary tool**, not a cure. Hypertension is a complex, chronic condition requiring:  
 - **Medical intervention:** Consult a doctor. Medications (e.g., spironolactone) may be essential.  
 - **Lifestyle synergy:** Pair this setup with low-sodium diets, stress management, and medication compliance.  
+
 *Note:* Ignoring clinical treatment risks irreversible organ damage.  
 
 ### **6. Can’t I just improve my mood to lower blood pressure?**  
@@ -127,6 +130,7 @@ Lowering cortisol doesn’t reduce resilience—it **prevents self-inflicted dam
 - Boosting circulation via movement  
 - Reducing cortisol-induced vascular inflammation  
 - Preventing sedentary damage  
+
 *Prioritize body-first healing: Mood supports physiology, not vice versa.*
 
 ### **7. Will this disrupt my hormone balance?**  
@@ -146,6 +150,7 @@ Quitting risks financial stress (a major hypertension trigger). Instead, restruc
 - **Cardiac:** Irregular heartbeat, chest tightness  
 - **Neurological:** Blurred vision, tinnitus, dizziness upon standing  
 - **Physical:** Neck/hip soreness, "exploding" sensation in veins  
+
 > *Diagnosis threshold:* Sustained BP ≥130/80 mmHg (per American Heart Association 2023 guidelines). Home monitors are essential for tracking.
 
 ### **10. How do I start?**  
@@ -153,6 +158,7 @@ Quitting risks financial stress (a major hypertension trigger). Instead, restruc
 1. **Movement-Integrated Desk:** Treadmill, standing desk, or stepper.  
 2. **Distraction Control:** Scheduled Do-Not-Disturb blocks.  
 3. **Work-Time Boundaries:** No overtime; protect recovery hours.  
+
 > *Progress > perfection. Track BP weekly and adjust as needed.*
 
 ---
