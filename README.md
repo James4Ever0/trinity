@@ -161,6 +161,10 @@ Quitting risks financial stress (a major hypertension trigger). Instead, restruc
 
 > *Progress > perfection. Track BP weekly and adjust as needed.*
 
+
+### **11. What to do after taking a nap at noon?**
+**A:** Since you usually sleep parallel to the ground, you should stand up for at least 30 minutes. If you have work to do, then prepare a standing desk. You are supposed to feel much better than immediately sit down on a chair, no matter how comfortable the chair is.
+
 ---
 Notes:
 
